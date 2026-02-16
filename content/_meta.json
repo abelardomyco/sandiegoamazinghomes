@@ -1,0 +1,24 @@
+{
+  "pages": [
+    { "id": "home", "file": "homepage.md", "description": "Welcome, tagline, CTAs" },
+    { "id": "about", "file": "about.md", "description": "About Us page body" }
+  ],
+  "contact": {
+    "name": "Rosamelia Lopez-Platt",
+    "title": "REALTOR®",
+    "dre": "DRE #02026714",
+    "company": "Royal California Real Estate",
+    "email": "Rosamelialp@hotmail.com",
+    "phone": "(619) 548-2832",
+    "address": "7445 Girard Ave. Suite #11, La Jolla, CA 92037"
+  },
+  "instagram": {
+    "handle": "sandiegoamazinghomes",
+    "url": "https://instagram.com/sandiegoamazinghomes"
+  },
+  "partner": {
+    "name": "The Baja Land Company",
+    "url": "https://thebajalandcompany.com/"
+  },
+  "source": "Content from sandiegoamazinghomes.com. Use only this content; no mock data."
+}
