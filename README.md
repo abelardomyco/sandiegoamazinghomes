@@ -34,3 +34,9 @@ Site runs at **http://localhost:3001** (port 3001 so it does not conflict with T
 - **About Us** (`/about`) — agent bio and contact
 
 No mock data; contact and partner URLs are real.
+
+## Sync to GitHub (continuous push to main)
+
+- **Quick sync:** Run **Tasks: Run Task** → **Sync to main (push)** (or `npm run sync` in terminal). Stages all changes, commits, and pushes to `main`.
+- **Custom message:** `npm run sync -- "your commit message"`
+- See `docs/Git-Sync-GitHub-2025-02-15.md` for details.

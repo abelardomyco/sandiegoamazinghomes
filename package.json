@@ -4,7 +4,9 @@
   "scripts": {
     "dev": "next dev -p 3001",
     "build": "next build",
-    "start": "next start -p 3001"
+    "start": "next start -p 3001",
+    "sync": "node scripts/sync-to-main.js",
+    "push": "node scripts/sync-to-main.js"
   },
   "dependencies": {
     "lucide-react": "^0.400.0",
